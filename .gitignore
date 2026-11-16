@@ -3,3 +3,10 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# .NET build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
